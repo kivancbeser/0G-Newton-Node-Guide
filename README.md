@@ -178,7 +178,7 @@ If shows false, run the create validator command.
 --gas=auto \
 -y 
 ```
-IF YOU ARE USING DIFFERNT PORT YOU NEED TO ADD THIS LINE CREATE VALIDATOR COMMAND. 
+IF YOU ARE USING DIFFERENT PORT YOU NEED TO ADD THIS LINE CREATE VALIDATOR COMMAND. 
 ```
 --node=http://localhost:PORTNUMBER \
 ```
