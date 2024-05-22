@@ -1,6 +1,9 @@
 # 0G-Newton-Node-Guide
 0G Newton Node Guide
 
+### Official Twitter 0G_Labs
+https://x.com/0G_labs
+
 ### Discord Role
 Go to Discord and Take Roles
 https://discord.gg/Fh5kCkjy
