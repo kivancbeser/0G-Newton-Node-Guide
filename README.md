@@ -12,7 +12,7 @@ https://discord.gg/Fh5kCkjy
 https://faucet.0g.ai/
 
 ### Explorer 
-https://explorer.scannerx.net/0G-Testnet/staking
+
 
 ### Requirements 
 
